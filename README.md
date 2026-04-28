@@ -39,3 +39,6 @@ The translocation of these reporters is mediated by phosphorylation:
 - [1] Cambuim, L. O., & Bruni-Cardoso, A. Microscopy image dataset of Cdk2 and Cdk4 activity reporters, phase contrast and histone H2B paired with nuclear masks of EpH4 mammary epithelial cells across variable cell densities and Cdk inhibition treatments. 10.5281/zenodo.19500864
 - [2] Spencer, S. L., Cappell, S. D., Tsai, F. C., Overton, K. W., Wang, C. L., & Meyer, T. (2013). The proliferation-quiescence decision is controlled by a bifurcation in CDK2 activity at mitotic exit. *Cell*, 155(2), 369-383. https://doi.org/10.1016/j.cell.2013.08.062 
 - [3] Yang, H. W., Cappell, S. D., Jaimovich, A., Liu, C., Chung, M., Daigh, L. H., Pack, L. R., Fan, Y., Regot, S., Covert, M., & Meyer, T. (2020). Stress-mediated exit to quiescence restricted by increasing persistence in CDK4/6 activation. *eLife*, 9, e44571. https://doi.org/10.7554/eLife.44571
+
+## Funding
+**this work is funded by FAPESP 2025/07672-1 and 2024/16814-1**
