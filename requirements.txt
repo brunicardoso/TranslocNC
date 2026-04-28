@@ -1,0 +1,10 @@
+napari
+matplotlib
+scikit-image
+pandas
+seaborn
+numpy
+stardist
+csbdeep
+pyclesperanto-prototype
+scipy
